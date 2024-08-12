@@ -1,0 +1,228 @@
+2024-08-12 12:53:45,602: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-08-12 12:53:46,486: root: INFO: Current backtesting datetime 2020-01-02 08:30:00-05:00
+2024-08-12 12:53:46,487: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-08-12 12:53:46,488: root: INFO: Current backtesting datetime 2020-01-02 09:30:00-05:00
+2024-08-12 12:53:46,488: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-08-12 12:53:46,488: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:46
+2024-08-12 12:53:46,488: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:46,493: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:47,514: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:47
+2024-08-12 12:53:47,515: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:47,516: root: INFO: Current backtesting datetime 2020-01-02 16:00:00-05:00
+2024-08-12 12:53:47,516: root: INFO: Current backtesting datetime 2020-01-03 09:30:00-05:00
+2024-08-12 12:53:47,517: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:47
+2024-08-12 12:53:47,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:47,518: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:47,961: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:47
+2024-08-12 12:53:47,962: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:47,963: root: INFO: Current backtesting datetime 2020-01-03 16:00:00-05:00
+2024-08-12 12:53:47,963: root: INFO: Current backtesting datetime 2020-01-04 09:30:00-05:00
+2024-08-12 12:53:47,964: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-08-12 12:53:47,966: root: INFO: Current backtesting datetime 2020-01-04 09:29:00-05:00
+2024-08-12 12:53:47,967: root: INFO: Current backtesting datetime 2020-01-04 09:29:00-05:00
+2024-08-12 12:53:47,967: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-08-12 12:53:47,968: root: INFO: Current backtesting datetime 2020-01-06 08:30:00-05:00
+2024-08-12 12:53:47,969: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-08-12 12:53:47,970: root: INFO: Current backtesting datetime 2020-01-06 09:30:00-05:00
+2024-08-12 12:53:47,970: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-08-12 12:53:47,971: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:47
+2024-08-12 12:53:47,971: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:47,973: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:48,429: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:48
+2024-08-12 12:53:48,430: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:48,431: root: INFO: Current backtesting datetime 2020-01-06 16:00:00-05:00
+2024-08-12 12:53:48,431: root: INFO: Current backtesting datetime 2020-01-07 09:30:00-05:00
+2024-08-12 12:53:48,432: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:48
+2024-08-12 12:53:48,432: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:48,433: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:49,033: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:49
+2024-08-12 12:53:49,034: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:49,035: root: INFO: Current backtesting datetime 2020-01-07 16:00:00-05:00
+2024-08-12 12:53:49,035: root: INFO: Current backtesting datetime 2020-01-08 09:30:00-05:00
+2024-08-12 12:53:49,036: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:49
+2024-08-12 12:53:49,036: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:49,037: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:49,435: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:49
+2024-08-12 12:53:49,436: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:49,437: root: INFO: Current backtesting datetime 2020-01-08 16:00:00-05:00
+2024-08-12 12:53:49,438: root: INFO: Current backtesting datetime 2020-01-09 09:30:00-05:00
+2024-08-12 12:53:49,438: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:49
+2024-08-12 12:53:49,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:49,440: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:49,839: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:49
+2024-08-12 12:53:49,841: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:49,842: root: INFO: Current backtesting datetime 2020-01-09 16:00:00-05:00
+2024-08-12 12:53:49,843: root: INFO: Current backtesting datetime 2020-01-10 09:30:00-05:00
+2024-08-12 12:53:49,843: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:49
+2024-08-12 12:53:49,844: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:49,845: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:50,290: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:50
+2024-08-12 12:53:50,292: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:50,293: root: INFO: Current backtesting datetime 2020-01-10 16:00:00-05:00
+2024-08-12 12:53:50,293: root: INFO: Current backtesting datetime 2020-01-11 09:30:00-05:00
+2024-08-12 12:53:50,294: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-08-12 12:53:50,295: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-08-12 12:53:50,297: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-08-12 12:53:50,297: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-08-12 12:53:50,298: root: INFO: Current backtesting datetime 2020-01-13 08:30:00-05:00
+2024-08-12 12:53:50,299: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-08-12 12:53:50,300: root: INFO: Current backtesting datetime 2020-01-13 09:30:00-05:00
+2024-08-12 12:53:50,300: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-08-12 12:53:50,301: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:50
+2024-08-12 12:53:50,301: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:50,303: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:50,810: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:50
+2024-08-12 12:53:50,812: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:50,813: root: INFO: Current backtesting datetime 2020-01-13 16:00:00-05:00
+2024-08-12 12:53:50,813: root: INFO: Current backtesting datetime 2020-01-14 09:30:00-05:00
+2024-08-12 12:53:50,813: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:50
+2024-08-12 12:53:50,814: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:50,815: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:51,244: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:51
+2024-08-12 12:53:51,245: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:51,246: root: INFO: Current backtesting datetime 2020-01-14 16:00:00-05:00
+2024-08-12 12:53:51,246: root: INFO: Current backtesting datetime 2020-01-15 09:30:00-05:00
+2024-08-12 12:53:51,247: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:51
+2024-08-12 12:53:51,247: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:51,248: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:51,873: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:51
+2024-08-12 12:53:51,875: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:51,876: root: INFO: Current backtesting datetime 2020-01-15 16:00:00-05:00
+2024-08-12 12:53:51,876: root: INFO: Current backtesting datetime 2020-01-16 09:30:00-05:00
+2024-08-12 12:53:51,876: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:51
+2024-08-12 12:53:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:51,878: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:52,454: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:52
+2024-08-12 12:53:52,456: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:52,458: root: INFO: Current backtesting datetime 2020-01-16 16:00:00-05:00
+2024-08-12 12:53:52,458: root: INFO: Current backtesting datetime 2020-01-17 09:30:00-05:00
+2024-08-12 12:53:52,458: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:52
+2024-08-12 12:53:52,458: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:52,460: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:52,842: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:52
+2024-08-12 12:53:52,843: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:52,844: root: INFO: Current backtesting datetime 2020-01-17 16:00:00-05:00
+2024-08-12 12:53:52,845: root: INFO: Current backtesting datetime 2020-01-18 09:30:00-05:00
+2024-08-12 12:53:52,845: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-08-12 12:53:52,847: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-08-12 12:53:52,848: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-08-12 12:53:52,848: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-08-12 12:53:52,849: root: INFO: Current backtesting datetime 2020-01-21 08:30:00-05:00
+2024-08-12 12:53:52,849: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-08-12 12:53:52,850: root: INFO: Current backtesting datetime 2020-01-21 09:30:00-05:00
+2024-08-12 12:53:52,850: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-08-12 12:53:52,851: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:52
+2024-08-12 12:53:52,851: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:52,852: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:53,030: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:53
+2024-08-12 12:53:53,032: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:53,033: root: INFO: Current backtesting datetime 2020-01-21 16:00:00-05:00
+2024-08-12 12:53:53,034: root: INFO: Current backtesting datetime 2020-01-22 09:30:00-05:00
+2024-08-12 12:53:53,034: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:53
+2024-08-12 12:53:53,035: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:53,036: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:53,415: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:53
+2024-08-12 12:53:53,416: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:53,417: root: INFO: Current backtesting datetime 2020-01-22 16:00:00-05:00
+2024-08-12 12:53:53,417: root: INFO: Current backtesting datetime 2020-01-23 09:30:00-05:00
+2024-08-12 12:53:53,418: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:53
+2024-08-12 12:53:53,418: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:53,419: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:53,687: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:53
+2024-08-12 12:53:53,689: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:53,690: root: INFO: Current backtesting datetime 2020-01-23 16:00:00-05:00
+2024-08-12 12:53:53,690: root: INFO: Current backtesting datetime 2020-01-24 09:30:00-05:00
+2024-08-12 12:53:53,691: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:53
+2024-08-12 12:53:53,691: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:53,692: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:54,176: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:54
+2024-08-12 12:53:54,177: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:54,178: root: INFO: Current backtesting datetime 2020-01-24 16:00:00-05:00
+2024-08-12 12:53:54,178: root: INFO: Current backtesting datetime 2020-01-25 09:30:00-05:00
+2024-08-12 12:53:54,179: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-08-12 12:53:54,180: root: INFO: Current backtesting datetime 2020-01-25 09:29:00-05:00
+2024-08-12 12:53:54,182: root: INFO: Current backtesting datetime 2020-01-25 09:29:00-05:00
+2024-08-12 12:53:54,182: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-08-12 12:53:54,183: root: INFO: Current backtesting datetime 2020-01-27 08:30:00-05:00
+2024-08-12 12:53:54,183: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-08-12 12:53:54,184: root: INFO: Current backtesting datetime 2020-01-27 09:30:00-05:00
+2024-08-12 12:53:54,184: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-08-12 12:53:54,186: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:54
+2024-08-12 12:53:54,186: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:54,187: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:54,645: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:54
+2024-08-12 12:53:54,646: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:54,647: root: INFO: Current backtesting datetime 2020-01-27 16:00:00-05:00
+2024-08-12 12:53:54,647: root: INFO: Current backtesting datetime 2020-01-28 09:30:00-05:00
+2024-08-12 12:53:54,648: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:54
+2024-08-12 12:53:54,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:54,649: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:55,076: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:55
+2024-08-12 12:53:55,078: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:55,079: root: INFO: Current backtesting datetime 2020-01-28 16:00:00-05:00
+2024-08-12 12:53:55,079: root: INFO: Current backtesting datetime 2020-01-29 09:30:00-05:00
+2024-08-12 12:53:55,080: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:55
+2024-08-12 12:53:55,080: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:55,081: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:55,420: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:55
+2024-08-12 12:53:55,421: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:55,422: root: INFO: Current backtesting datetime 2020-01-29 16:00:00-05:00
+2024-08-12 12:53:55,422: root: INFO: Current backtesting datetime 2020-01-30 09:30:00-05:00
+2024-08-12 12:53:55,423: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:55
+2024-08-12 12:53:55,423: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:55,424: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:55,802: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:55
+2024-08-12 12:53:55,803: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:55,804: root: INFO: Current backtesting datetime 2020-01-30 16:00:00-05:00
+2024-08-12 12:53:55,804: root: INFO: Current backtesting datetime 2020-01-31 09:30:00-05:00
+2024-08-12 12:53:55,805: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:55
+2024-08-12 12:53:55,805: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:55,806: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:56,299: root: INFO: MLTrader : Trading iteration ended at 2024-08-12 12:53:56
+2024-08-12 12:53:56,300: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-08-12 12:53:56,301: root: INFO: Current backtesting datetime 2020-01-31 16:00:00-05:00
+2024-08-12 12:53:56,301: root: INFO: Current backtesting datetime 2020-02-01 09:30:00-05:00
+2024-08-12 12:53:56,302: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-08-12 12:53:56,303: root: INFO: Current backtesting datetime 2020-02-01 09:29:00-05:00
+2024-08-12 12:53:56,304: root: INFO: Current backtesting datetime 2020-02-01 09:29:00-05:00
+2024-08-12 12:53:56,304: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-08-12 12:53:56,305: root: INFO: Current backtesting datetime 2020-02-03 08:30:00-05:00
+2024-08-12 12:53:56,306: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-08-12 12:53:56,307: root: INFO: Current backtesting datetime 2020-02-03 09:30:00-05:00
+2024-08-12 12:53:56,307: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-08-12 12:53:56,308: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-08-12 12:53:56
+2024-08-12 12:53:56,308: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:56,309: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-08-12 12:53:56,662: root: ERROR: 'MLTrader' object has no attribute 'last_order'
+2024-08-12 12:53:56,665: root: ERROR: Traceback (most recent call last):
+  File "/Users/PV/PycharmProjects/tradingBot/venv/lib/python3.11/site-packages/lumibot/strategies/strategy_executor.py", line 829, in run
+    self._run_trading_session()
+  File "/Users/PV/PycharmProjects/tradingBot/venv/lib/python3.11/site-packages/lumibot/strategies/strategy_executor.py", line 780, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Users/PV/PycharmProjects/tradingBot/venv/lib/python3.11/site-packages/lumibot/strategies/strategy_executor.py", line 274, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/PV/PycharmProjects/tradingBot/venv/lib/python3.11/site-packages/lumibot/strategies/strategy_executor.py", line 298, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/PV/PycharmProjects/tradingBot/venv/lib/python3.11/site-packages/lumibot/strategies/strategy_executor.py", line 87, in func_output
+    return func_input(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/PV/PycharmProjects/tradingBot/venv/lib/python3.11/site-packages/lumibot/strategies/strategy_executor.py", line 378, in _on_trading_iteration
+    on_trading_iteration()
+  File "/Users/PV/PycharmProjects/tradingBot/venv/lib/python3.11/site-packages/lumibot/tools/decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/PV/PycharmProjects/tradingBot/venv/lib/python3.11/site-packages/lumibot/tools/decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/PV/PycharmProjects/tradingBot/tradingbot.py", line 69, in on_trading_iteration
+    if self.last_order == "buy":
+       ^^^^^^^^^^^^^^^
+AttributeError: 'MLTrader' object has no attribute 'last_order'
+
+2024-08-12 12:53:56,666: root: INFO: MLTrader : Executing the on_bot_crash event method
+2024-08-12 12:53:56,698: root: INFO: Backtesting finished
+2024-08-12 12:53:56,704: root: INFO: There were no trades in this backtest.
+2024-08-12 12:53:56,801: root: ERROR: Not enough data to create a tearsheet, at least 2 days of data are required. Skipping
+2024-08-12 12:53:56,801: backtest_stats: INFO: Backtest took 0:00:11.201887 for a speed of 0.000
