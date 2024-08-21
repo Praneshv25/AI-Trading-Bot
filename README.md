@@ -26,3 +26,6 @@ The AI Trading Bot utilizes the FinBERT model to perform sentiment analysis on n
 
 ## Results
 The bot’s performance is benchmarked against SPY, with results visualized in a graph comparing cash, SPY, and the bot's strategy over time. In backtesting, the bot has demonstrated potential for consistent returns, particularly in periods of high market volatility.
+
+!['cash graph.png'](https://github.com/Praneshv25/AI-Trading-Bot/blob/main/cash%20graph.png)
+![](https://github.com/Praneshv25/AI-Trading-Bot/blob/main/cumulative%20returns.png)
