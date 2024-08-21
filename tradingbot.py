@@ -7,8 +7,8 @@ from alpaca_trade_api import REST
 from timedelta import Timedelta
 from finbert import estimate_sentiment
 
-API_KEY = ""
-API_SECRET = ""
+API_KEY = "PKXDQ39DVLOG5QTPH487"
+API_SECRET = "GcjZNx2m3NvEQlF0oEh9VwFRYW93nABLO0RC4TU6"
 BASE_URL = "https://paper-api.alpaca.markets/v2"
 
 ALPACA_CREDS = {
@@ -78,7 +78,7 @@ class MLTrader(Strategy):
                 self.last_trade = "sell"
 
 start_date = datetime(2020,1,1)
-end_date = datetime(2024,8,11)
+end_date = datetime(2024,12,31)
 broker = Alpaca(ALPACA_CREDS)
 strategy = MLTrader(name='mlstrat', broker=broker,
                     parameters={"symbol":"SPY",
